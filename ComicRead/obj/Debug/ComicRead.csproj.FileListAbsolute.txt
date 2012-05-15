@@ -1,0 +1,12 @@
+c:\home\dev\comicread\ComicRead\ComicRead\bin\Debug\ComicRead.exe.config
+c:\home\dev\comicread\ComicRead\ComicRead\obj\Debug\ComicRead.csprojResolveAssemblyReference.cache
+c:\home\dev\comicread\ComicRead\ComicRead\obj\Debug\ComicRead.Form1.resources
+c:\home\dev\comicread\ComicRead\ComicRead\obj\Debug\ComicRead.Properties.Resources.resources
+c:\home\dev\comicread\ComicRead\ComicRead\obj\Debug\ComicRead.csproj.GenerateResource.Cache
+c:\home\dev\comicread\ComicRead\ComicRead\bin\Debug\ComicRead.exe
+c:\home\dev\comicread\ComicRead\ComicRead\bin\Debug\ComicRead.pdb
+c:\home\dev\comicread\ComicRead\ComicRead\bin\Debug\HtmlAgilityPack.dll
+c:\home\dev\comicread\ComicRead\ComicRead\bin\Debug\HtmlAgilityPack.pdb
+c:\home\dev\comicread\ComicRead\ComicRead\bin\Debug\HtmlAgilityPack.xml
+c:\home\dev\comicread\ComicRead\ComicRead\obj\Debug\ComicRead.exe
+c:\home\dev\comicread\ComicRead\ComicRead\obj\Debug\ComicRead.pdb
